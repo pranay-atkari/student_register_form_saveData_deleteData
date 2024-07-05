@@ -1,0 +1,74 @@
+{
+  "student": [
+    {
+      "id": "1",
+      "name": "Virat",
+      "city": "Delhi"
+    },
+    {
+      "id": "6d68",
+      "fname": "Rohit",
+      "lname": "sharma",
+      "address": "Karve Nagar",
+      "gender": "male",
+      "state": "Maharashtra",
+      "city": "Pune",
+      "dob": "25 July 1988",
+      "pincode": "411052",
+      "course": "Cricket",
+      "email": "rohit@gmail.com"
+    },
+    {
+      "id": "570f",
+      "fname": "Pranay",
+      "lname": "Atkari",
+      "address": "chandur railway",
+      "gender": "male",
+      "state": "Maharashtra",
+      "city": "Pune",
+      "dob": "28 Aug1999",
+      "pincode": "444904",
+      "course": "java",
+      "email": "pranayatkari58@gmail.com"
+    },
+    {
+      "id": "3c2a",
+      "fname": "Rahul ",
+      "lname": "sare",
+      "address": "pune",
+      "gender": "male",
+      "state": "Maharashtra",
+      "city": "Pune",
+      "dob": "15 november 2003",
+      "pincode": "4446258",
+      "course": "java",
+      "email": "rahul@gmail.com"
+    },
+    {
+      "id": "3019",
+      "fname": "ankit",
+      "lname": "sarosare",
+      "address": "chandur railway",
+      "gender": "male",
+      "state": "Gujrat",
+      "city": "Surat",
+      "dob": "11 jun 2001",
+      "pincode": "444901",
+      "course": "python",
+      "email": "ankit@gmail.com"
+    },
+    {
+      "id": "81c9",
+      "fname": "gfdgff",
+      "lname": "ggfdd",
+      "address": "pune",
+      "gender": "male",
+      "state": "Maharashtra",
+      "city": "Pune",
+      "dob": "",
+      "pincode": "",
+      "course": "",
+      "email": ""
+    }
+  ]
+}
